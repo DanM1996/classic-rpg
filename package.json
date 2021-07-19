@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanM1996/classic-rpg.git"
+  },
+  "author": "Dan Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanM1996/classic-rpg/issues"
+  },
+  "homepage": "https://github.com/DanM1996/classic-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
